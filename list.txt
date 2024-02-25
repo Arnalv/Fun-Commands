@@ -1,0 +1,11 @@
+Fun Commands:
+
+- sl
+- cowsay
+- cowthink
+- nudoku
+- pacman4console
+- nsnake
+- bastet
+- uwufetch
+- neofetch
